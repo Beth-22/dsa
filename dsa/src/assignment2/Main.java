@@ -1,7 +1,7 @@
 package assignment2;
 
 /**
- * The Main class contains the main method to test LinkedList and Stack operations.
+ * The Main class contains the main method to test Linked List and Stack operations
  */
 public class Main {
 
@@ -28,3 +28,4 @@ public class Main {
         System.out.println("Top element of stack: " + stack.peek()); // Peeking at the top element
     }
 }
+//comment 
